@@ -100,3 +100,4 @@ To generate all three types of files, you will need all three operating
 systems.
 
 The output distributable packages appear in the `dist/` directory.
+Linux release builds also include ARM64 packages, built on an ARM64 runner.
